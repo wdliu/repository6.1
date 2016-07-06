@@ -290,3 +290,5 @@
  * Task [AddContextCommentValueMigrationTask] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project test36693 ===---
+ * Task [MoveHDFSAndHCatalogToHadoopFolderMigrationTask] : Applied successfully
